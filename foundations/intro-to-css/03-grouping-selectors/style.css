@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.color-me,
+.color-no{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif,
+}
+
+.color-me{
+    background-color: #860B77;
+    color: white;
+}
+
+.color-no{
+    background-color: #0B861A;
+    color: black;
+}
